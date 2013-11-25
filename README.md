@@ -1,4 +1,4 @@
-great_tutorials
+reads
 ===============
 
 Comprehensive list of must-reads.
